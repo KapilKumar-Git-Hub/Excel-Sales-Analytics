@@ -1,1 +1,4 @@
 # Excel-Sales-Analytics
+AtliQ Hardware Sales, Finance, and Profit & Loss Report
+
+In this project, I developed comprehensive sales, finance, and profit & loss reports for AtliQ Hardware, covering fiscal years 2019, 2020, and 2021. I efficiently managed large datasets throughout the complete ETL (Extract, Transform, Load) process, including data extraction, transformation using Power Query, and loading into structured data models. The project also involved executing complex queries, creating calculated columns, and leveraging DAX formulas to derive meaningful insights. Additionally, I created detailed data visualizations, including profit & loss statements, to analyze various financial aspects. These reports provided actionable insights, supporting data-driven decision-making for the company.
